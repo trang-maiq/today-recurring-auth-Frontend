@@ -1,0 +1,66 @@
+{
+  "components": [
+    {
+      "id": "BannerWithLink",
+      "variables": {
+        "eventDescription": "Tech Meetup 2025 is on November 12 – 14 in San Francisco.",
+        "linkText": "Sign up now"
+      }
+    },
+    {
+      "id": "HeroSimpleCentered",
+      "variables": {
+        "subtitle": "Inspire, Connect, and Share Your Technical Expertise with the World",
+        "title": "Empower Your Ideas with Yay!"
+      }
+    },
+    {
+      "id": "TestimonialsGrid",
+      "variables": {
+        "subtitle": "Inspire, Connect, and Share Your Technical Expertise with the World",
+        "title": "Empower Your Ideas with Yay!"
+      }
+    },
+    {
+      "id": "StatsSimpleGrid",
+      "variables": {
+        "subtitle": "Inspire, Connect, and Share Your Technical Expertise with the World",
+        "title": "Empower Your Ideas with Yay!"
+      }
+    },
+    {
+      "id": "CtaSimpleCentered",
+      "variables": {
+        "subtitle": "Inspire, Connect, and Share Your Technical Expertise with the World",
+        "title": "Empower Your Ideas with Yay!"
+      }
+    },
+    {
+      "id": "FaqsOffsetWithSupportingText",
+      "variables": {
+        "subtitle": "Inspire, Connect, and Share Your Technical Expertise with the World",
+        "title": "Empower Your Ideas with Yay!"
+      }
+    },
+    {
+      "id": "NewsletterCenteredCard",
+      "variables": {
+        "buttonText": "Subscribe Now",
+        "description": "Subscribe to our newsletter and receive the latest tech news updates, insights, and exclusive content straight to your inbox.",
+        "emailLabel": "Email address",
+        "heading": "Stay Updated with Technical Sharing News"
+      }
+    },
+    {
+      "id": "FooterSimpleCentered",
+      "variables": {
+        "subtitle": "Inspire, Connect, and Share Your Technical Expertise with the World",
+        "title": "Empower Your Ideas with Yay!"
+      }
+    }
+  ],
+  "theme": "dark",
+  "font": "",
+  "title": "Empower Your Ideas with Yay!",
+  "subtitle": "Inspire, Connect, and Share Your Technical Expertise with the World"
+}
